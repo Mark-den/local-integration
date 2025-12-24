@@ -62,4 +62,5 @@ Important: never include your App Secret in client-side code. This demo only req
 
 ---
 
-Updated README for clarity and local-testing instructions.
+
+
